@@ -12,5 +12,7 @@ vss module = visual cues
 useEffect Hook + Regex 
 refreshing variables in event handler --> useCallback
 
-# Tyoescriot Specific?
+# Typescript Specific?
 Guesses variables in tsx files 
+
+# Win Lose States
